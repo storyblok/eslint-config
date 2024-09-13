@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0 (2024-09-13)
+
+
+### 🚀 Features
+
+* hello eslint flat config ([8bfbb2c](https://github.com/storyblok/eslint-config/commit/8bfbb2c754d442c1564ecb4d4da471cdbb63f2da))
+
 ## [1.3.0](https://github.com/alvarosabu/eslint-config/compare/1.2.0...1.3.0) (2024-09-06)
 
 
