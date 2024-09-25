@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/storyblok/eslint-config/compare/0.2.0...0.2.1) (2024-09-25)
+
+
+### 🩹 Bug Fixes
+
+* extend only patches versions of eslint config ([9c5c825](https://github.com/storyblok/eslint-config/commit/9c5c8252381344a7eac3441f0d855e3428cdb637))
+
 ## 0.2.0 (2024-09-13)
 
 
