@@ -1,3 +1,3 @@
-import { storyblokLintConfig } from './src/index'
+import { storyblokLintConfig } from './src/index';
 
-export default storyblokLintConfig()
+export default storyblokLintConfig();
