@@ -29,6 +29,6 @@ const nuxtConfig = [
       'vue/no-multiple-template-root': 'error',
     },
   },
-]
+];
 
-export default nuxtConfig
+export default nuxtConfig;

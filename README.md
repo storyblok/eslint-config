@@ -72,9 +72,9 @@ Using the default config without arguments uses the following `@antfu/eslint-con
 
 ```js
 // eslint.config.js
-import { storyblokLintConfig } from '@storyblok/eslint-config'
+import { storyblokLintConfig } from '@storyblok/eslint-config';
 
-export default storyblokLintConfig()
+export default storyblokLintConfig();
 ```
 
 #### Setting options and using custom rules
@@ -86,7 +86,7 @@ It is possible to add custom rules with the following configuration.
 
 ```js
 // eslint.config.js
-import { storyblokLintConfig } from '@storyblok/eslint-config'
+import { storyblokLintConfig } from '@storyblok/eslint-config';
 
 export default storyblokLintConfig(
   // @antfu/eslint-config options, must be the first argument
@@ -99,7 +99,7 @@ export default storyblokLintConfig(
       curly: 'off',
     },
   },
-)
+);
 ```
 
 ## 📝 VS Code Support
