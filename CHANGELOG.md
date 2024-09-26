@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/storyblok/eslint-config/compare/0.2.1...0.3.0) (2024-09-26)
+
+
+### 🚀 Features
+
+* semicolon rule ([98a711f](https://github.com/storyblok/eslint-config/commit/98a711fea8b072612fbaef4c02300617e441823a))
+
 ## [0.2.1](https://github.com/storyblok/eslint-config/compare/0.2.0...0.2.1) (2024-09-25)
 
 
